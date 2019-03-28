@@ -10,6 +10,7 @@ To Test application. goto browser and type - http://localhost:9096
 GET: http://localhost:9096/data/{id}
 
 POST: http://localhost:9096/data
+<br>
 {
 "content" : "hello from docker compose test"
 }
